@@ -1,4 +1,4 @@
-from heapq import heapify, heappush 
+from heapq import heapify, heappush #(https://docs.python.org/3/library/heapq.html)
 from random import randint, uniform
 import operator
 import time
